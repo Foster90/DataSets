@@ -25,4 +25,4 @@ Linq query works as excepted.
 Exercise 8:
 Using the typed dataset from Exercise 6 return all records and then serialize the data to a file. Then clear the dataset and de-serialize the data from the file created.
 
-Hard coded the file directory these will need to be updated depending your required location.
+Hard coded the file directory this will need to be updated depending your required location.
