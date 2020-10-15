@@ -1,6 +1,6 @@
 # DataSets
 
-Sencon Programming Exercises
+Programming Exercises
 
 Exercise 5:
 Programmatically create a SQLServer database table called ‘TestTable’ with the following column definitions.
